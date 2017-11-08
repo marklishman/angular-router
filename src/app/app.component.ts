@@ -17,15 +17,12 @@ import { Component, ViewEncapsulation } from '@angular/core';
     div {
       padding: 10px;
     }
-
     .not-padded {
       padding: 0;
     }
-
     .border {
       border: 1px solid #b3b3b3;
     }
-
     .disabled {
       pointer-events: none;
       cursor: default;
